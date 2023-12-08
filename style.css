@@ -1,0 +1,17 @@
+body {
+       background-color: papayawhip ;
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
+       align-items: center;
+}
+#canvas {
+  height:550px;
+  width:350px;
+  /*border: 1px solid darkred;*/
+}
+
+#tooltip {
+  position: absolute;
+  padding: 5px;
+}
